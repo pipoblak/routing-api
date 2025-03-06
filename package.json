@@ -127,5 +127,8 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+  },
+  "exports": {
+    "./lib/*": "./lib/*"
   }
 }
