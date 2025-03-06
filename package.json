@@ -4,6 +4,7 @@
   "bin": {
     "app": "./dist/bin/app.js"
   },
+  "type": "module",
   "license": "GPL",
   "repository": "https://github.com/Uniswap/routing-api",
   "scripts": {
